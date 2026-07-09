@@ -87,3 +87,4 @@ A free, open-source web application that generates UML diagrams based on PocketB
 # clarify the control flow
 # drop an unused branch
 # guard against empty input
+# handle the edge case from the last release
